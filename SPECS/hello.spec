@@ -6,7 +6,6 @@ License: GPL+
 Group: Development/Tools
 SOURCE0 : %{name}.tar.gz
 URL: http://kevinvanrooijen.com/
-Requires: 
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildRequires: ghc
 %description
