@@ -4,7 +4,7 @@ Version: 0.0.1
 Release: 1
 License: GPL+
 Group: Development/Tools
-SOURCE0 : %{name}.tar.gz
+SOURCE0 : %{name}-%{version}.tar.gz
 URL: http://kevinvanrooijen.com/
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildRequires: ghc
